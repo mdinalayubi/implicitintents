@@ -760,11 +760,19 @@ public class MainToast extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 # Hasil Output
+## ```ic launcher```
 ![Gambar](mobile/1.jpg)
+## ```Luncher Splash```
 ![Gambar](mobile/2.jpg)
+## ```Home```
 ![Gambar](mobile/3.jpg)
+## ```Hello Toas```
 ![Gambar](mobile/4.jpg)
+## ```Count```
 ![Gambar](mobile/5.jpg)
+## ```Kasus Sianida```
 ![Gambar](mobile/6.jpg)
+## ```Two Activity```
 ![Gambar](mobile/7.jpg)
+## ```Set Alarm```
 ![Gambar](mobile/8.jpg)
